@@ -9,18 +9,22 @@
 * 🌱 I’m currently learning / exploring **advanced embedded C/C++, network programming for devices, and effective project documentation practices.**
 * 💻 I'm proficient in **Python and C/C++**, with a growing understanding of scripting for automation.
 * 🛠️ I'm gaining experience with **Raspberry Pi, Git, Linux environments, and various hardware prototyping tools.**
-* 🚀 I'm looking to collaborate on projects related to **hardware-accelerated computing, open-source hardware, and energy-efficient technological solutions.**
-* 💬 Ask me about **DIY electronics, optimizing system performance, or anything related to single-board computers.**
-* ⚡ Fun fact: **I love to tinker with old electronics and give them new life!**
 
 ---
 
-### My Latest Projects:
+### My Projects
 
-Here's a key project I'm currently working on:
+Here is a selection of my project repositories from the [DKMRHQ](https://github.com/DKMRHQ) profile.
 
-* **MR-2025-PT-March-L5ADV/mission-5-phase-2-individual-DKMRHQ** - This project is part of "PHASE 2 - Z ENERGY," developed using JavaScript.
-    * [https://github.com/MR-2025-PT-March-L5ADV/mission-5-phase-2-individual-DKMRHQ](https://github.com/MR-2025-PT-March-L5ADV/mission-5-phase-2-individual-DKMRHQ)
+* **[mission-5-phase-2-individual-DKMRHQ](https://github.com/DKMRHQ/mission-5-phase-2-individual-DKMRHQ)**: An individual project for "PHASE 2 - Z ENERGY," developed using JavaScript.
+* **[mission-5-phase-1-group-1-DKMRHQ](https://github.com/DKMRHQ/mission-5-phase-1-group-1-DKMRHQ)**: A group project for "PHASE 1 - Air NZ," developed using JavaScript.
+* **[mission-4-individual-DKMRHQ](https://github.com/DKMRHQ/mission-4-individual-DKMRHQ)**: An individual project from Mission 4.
+* **[mission-4-group-1-wednesday](https://github.com/DKMRHQ/mission-4-group-1-wednesday)**: A group project from Mission 4.
+* **[mission-3-group-1-wednesday](https://github.com/DKMRHQ/mission-3-group-1-wednesday)**: A group project from Mission 3.
+* **[T1A2-portfolio](https://github.com/DKMRHQ/T1A2-portfolio)**: My portfolio website project built with HTML/CSS.
+* **[DKMRHQ.github.io](https://github.com/DKMRHQ/DKMRHQ.github.io)**: Deployed GitHub Pages site.
+
+> You can find the full list of my repositories [here](https://github.com/DKMRHQ?tab=repositories).
 
 ---
 
@@ -33,7 +37,8 @@ Here's a key project I'm currently working on:
 
 ### Connect with me:
 
-* You can find me on GitHub: [https://github.com/devdass](https://github.com/devdass)
+* **Main Profile:** [devdass](https://github.com/devdass)
+* **Project Repositories:** [DKMRHQ](https://github.com/DKMRHQ)
 * Feel free to reach out for collaborations or discussions!
 
 ---
