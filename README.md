@@ -20,7 +20,7 @@
 Here's a key project I'm currently working on:
 
 * **MR-2025-PT-March-L5ADV/mission-5-phase-2-individual-DKMRHQ** - This project is part of "PHASE 2 - Z ENERGY," developed using JavaScript.
-    * [https://github.com/DKMRHQ/mission-5-phase-2-individual-DKMRHQ](https://github.com/DKMRHQ/mission-5-phase-2-individual-DKMRHQ)
+    * [https://github.com/MR-2025-PT-March-L5ADV/mission-5-phase-2-individual-DKMRHQ](https://github.com/MR-2025-PT-March-L5ADV/mission-5-phase-2-individual-DKMRHQ)
 
 ---
 
